@@ -15,7 +15,7 @@ function hello(name) {
     return "Hello codecheck!";
   }
   
-    return "";
+  return "";
   
 }
 
