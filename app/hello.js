@@ -6,7 +6,7 @@ function hello(name) {
 
   
   //ここにHelloworldを実装します。
-    if(name == "World")
+  if(name == "World")
   {
     return "Hello World!";
   }
@@ -14,10 +14,9 @@ function hello(name) {
   {
     return "Hello codecheck!";
   }
-  else
-  {
+  
     return "";
-  }
+  
 }
 
 module.exports = hello;
